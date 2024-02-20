@@ -10,6 +10,8 @@ import "./style.scss";
 import LeftBar from "./components/leftBar/LeftBar";
 import RightBar from "./components/rightBar/RightBar";
 import Navbar from "./components/navBar/Navbar";
+import Share from "./components/share/Share";
+
 
 
 
